@@ -1,0 +1,18 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# Sensitive Environment Variables (Never commit real credentials)
+.env
+
+# IDE and OS configurations
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
